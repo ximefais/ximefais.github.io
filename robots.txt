@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ximefais.github.io/sitemap/sitemap.txt
